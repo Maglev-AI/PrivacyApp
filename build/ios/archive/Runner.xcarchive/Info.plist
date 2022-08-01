@@ -13,9 +13,9 @@
 		<key>CFBundleIdentifier</key>
 		<string>com.maglevai.maglevVault</string>
 		<key>CFBundleShortVersionString</key>
-		<string>1.10.0</string>
+		<string>1.13.0</string>
 		<key>CFBundleVersion</key>
-		<string>1.10.0</string>
+		<string>1.13.0</string>
 		<key>SigningIdentity</key>
 		<string>Apple Development: Zhenghan Jin (KDPHA9DSRG)</string>
 		<key>Team</key>
@@ -24,7 +24,7 @@
 	<key>ArchiveVersion</key>
 	<integer>2</integer>
 	<key>CreationDate</key>
-	<date>2022-06-18T20:23:20Z</date>
+	<date>2022-08-01T02:51:35Z</date>
 	<key>Name</key>
 	<string>Runner</string>
 	<key>SchemeName</key>

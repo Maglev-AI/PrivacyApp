@@ -4,6 +4,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:hive_flutter/hive_flutter.dart';
@@ -42,14 +43,17 @@ class MaglevVault extends StatelessWidget {
   Widget build(BuildContext context) {
     Box signin = Hive.box('signin');
 
-    return GetMaterialApp(
-      title: 'Maglev Vault',
-      translations: Translation(),
-      locale: Get.deviceLocale,
-      debugShowCheckedModeBanner: false,
-      theme: ThemeData(),
-      home: signin.get('signed_in') ? const Main() : const SignIn(),
-    );
+    return ScreenUtilInit(
+        designSize: const Size(390, 844),
+        builder: (context, child) {
+          return GetMaterialApp(
+            title: 'Maglev Vault',
+            translations: Translation(),
+            locale: Get.deviceLocale,
+            debugShowCheckedModeBanner: false,
+            home: signin.get('signed_in') ? const Main() : const SignIn(),
+          );
+        });
   }
 }
 

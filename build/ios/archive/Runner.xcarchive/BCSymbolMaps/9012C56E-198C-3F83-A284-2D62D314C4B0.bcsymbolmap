@@ -47,8 +47,8 @@ __OBJC_$_INSTANCE_METHODS_FLTPathProviderPlugin
 __OBJC_$_PROP_LIST_FLTPathProviderPlugin
 __OBJC_CLASS_RO_$_FLTPathProviderPlugin
 _OBJC_SELECTOR_REFERENCES_.109
-/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.10/ios/Classes/FLTPathProviderPlugin.m
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.10/ios/Classes/FLTPathProviderPlugin.m
+/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.11/ios/Classes/FLTPathProviderPlugin.m
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.11/ios/Classes/FLTPathProviderPlugin.m
 /Users/development
 GetDirectoryOfType
 -[FLTPathProviderApiCodecReaderWriter writerWithData:]
@@ -92,9 +92,9 @@ _OBJC_SELECTOR_REFERENCES_.44
 _OBJC_SELECTOR_REFERENCES_.48
 _OBJC_CLASSLIST_REFERENCES_$_.49
 _OBJC_SELECTOR_REFERENCES_.51
-/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.10/ios/Classes/messages.g.m
+/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.11/ios/Classes/messages.g.m
 __FLTPathProviderApiSetup_block_invoke_3
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.10/ios/Classes/messages.g.m
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.11/ios/Classes/messages.g.m
 __FLTPathProviderApiSetup_block_invoke_2
 __FLTPathProviderApiSetup_block_invoke.23
 __destroy_helper_block_e4_20s

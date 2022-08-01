@@ -266,7 +266,7 @@ class _SignInState extends State<SignIn> {
                 flex: 1,
               ),
               Text(
-                'Privacy matters.',
+                'No tracking. No ads. Ever.',
                 style: TextStyle(
                   fontSize: Get.width * 0.04,
                   color: CupertinoColors.black,

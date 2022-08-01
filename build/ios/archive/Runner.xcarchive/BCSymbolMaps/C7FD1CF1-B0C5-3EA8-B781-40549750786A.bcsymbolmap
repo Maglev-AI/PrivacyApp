@@ -44,11 +44,11 @@ _OBJC_SELECTOR_REFERENCES_.52
 __OBJC_$_CLASS_METHODS_FLTImagePickerImageUtil
 __OBJC_METACLASS_RO_$_FLTImagePickerImageUtil
 __OBJC_CLASS_RO_$_FLTImagePickerImageUtil
-/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/FLTImagePickerImageUtil.m
+/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/FLTImagePickerImageUtil.m
 llvm.loop.mustprogress
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/FLTImagePickerImageUtil.m
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/FLTImagePickerImageUtil.m
 /Users/development
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/FLTImagePickerImageUtil.h
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/FLTImagePickerImageUtil.h
 +[FLTImagePickerMetaDataUtil getImageMIMETypeFromImageData:]
 +[FLTImagePickerMetaDataUtil imageTypeSuffixFromType:]
 +[FLTImagePickerMetaDataUtil getMetaDataFromImageData:]
@@ -61,8 +61,8 @@ _OBJC_SELECTOR_REFERENCES_.13
 __OBJC_$_CLASS_METHODS_FLTImagePickerMetaDataUtil
 __OBJC_METACLASS_RO_$_FLTImagePickerMetaDataUtil
 __OBJC_CLASS_RO_$_FLTImagePickerMetaDataUtil
-/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/FLTImagePickerMetaDataUtil.m
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/FLTImagePickerMetaDataUtil.m
+/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/FLTImagePickerMetaDataUtil.m
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/FLTImagePickerMetaDataUtil.m
 +[FLTImagePickerPhotoAssetUtil getAssetFromImagePickerInfo:]
 +[FLTImagePickerPhotoAssetUtil getAssetFromPHPickerResult:]
 +[FLTImagePickerPhotoAssetUtil saveImageWithOriginalImageData:image:maxWidth:maxHeight:imageQuality:]
@@ -113,8 +113,8 @@ _OBJC_SELECTOR_REFERENCES_.82
 __OBJC_$_CLASS_METHODS_FLTImagePickerPhotoAssetUtil
 __OBJC_METACLASS_RO_$_FLTImagePickerPhotoAssetUtil
 __OBJC_CLASS_RO_$_FLTImagePickerPhotoAssetUtil
-/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/FLTImagePickerPhotoAssetUtil.m
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/FLTImagePickerPhotoAssetUtil.m
+/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/FLTImagePickerPhotoAssetUtil.m
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/FLTImagePickerPhotoAssetUtil.m
 -[FLTImagePickerMethodCallContext initWithResult:]
 -[FLTImagePickerMethodCallContext result]
 -[FLTImagePickerMethodCallContext setResult:]
@@ -379,9 +379,9 @@ _OBJC_IVAR_$_FLTImagePickerPlugin._callContext
 __OBJC_$_INSTANCE_VARIABLES_FLTImagePickerPlugin
 __OBJC_$_PROP_LIST_FLTImagePickerPlugin
 __OBJC_CLASS_RO_$_FLTImagePickerPlugin
-/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/FLTImagePickerPlugin.m
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/FLTImagePickerPlugin.m
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/FLTImagePickerPlugin_Test.h
+/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/FLTImagePickerPlugin.m
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/FLTImagePickerPlugin.m
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/FLTImagePickerPlugin_Test.h
 __76-[FLTImagePickerPlugin imagePickerController:didFinishPickingMediaWithInfo:]_block_invoke.313
 __76-[FLTImagePickerPlugin imagePickerController:didFinishPickingMediaWithInfo:]_block_invoke.309
 __destroy_helper_block_e4_20s24s28s32s36s
@@ -455,8 +455,8 @@ __OBJC_$_INSTANCE_METHODS_FLTPHPickerSaveImageToPathOperation
 __OBJC_$_INSTANCE_VARIABLES_FLTPHPickerSaveImageToPathOperation
 __OBJC_$_PROP_LIST_FLTPHPickerSaveImageToPathOperation
 __OBJC_CLASS_RO_$_FLTPHPickerSaveImageToPathOperation
-/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/FLTPHPickerSaveImageToPathOperation.m
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/FLTPHPickerSaveImageToPathOperation.m
+/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/FLTPHPickerSaveImageToPathOperation.m
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/FLTPHPickerSaveImageToPathOperation.m
 __52-[FLTPHPickerSaveImageToPathOperation processImage:]_block_invoke.68
 __52-[FLTPHPickerSaveImageToPathOperation processImage:]_block_invoke.64
 __52-[FLTPHPickerSaveImageToPathOperation processImage:]_block_invoke
@@ -544,9 +544,9 @@ _OBJC_SELECTOR_REFERENCES_.117
 _OBJC_SELECTOR_REFERENCES_.119
 _OBJC_SELECTOR_REFERENCES_.127
 _OBJC_SELECTOR_REFERENCES_.131
-/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/messages.g.m
+/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/messages.g.m
 __FLTImagePickerApiSetup_block_invoke_2.113
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/messages.g.m
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/messages.g.m
 __FLTImagePickerApiSetup_block_invoke.112
 __FLTImagePickerApiSetup_block_invoke_2.106
 __FLTImagePickerApiSetup_block_invoke.105
@@ -558,5 +558,5 @@ FLTImagePickerApiSetup
 __FLTImagePickerApiGetCodec_block_invoke
 FLTImagePickerApiGetCodec
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/dispatch/once.h
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/ios/Classes/messages.g.h
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/ios/Classes/messages.g.h
 GetNullableObject

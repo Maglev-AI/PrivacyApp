@@ -8,8 +8,6 @@ import 'package:get/get.dart';
 import 'package:hive/hive.dart';
 import 'package:maglev_vault/main.dart';
 import 'package:maglev_vault/photo.dart';
-import 'package:passcode_screen/circle.dart';
-import 'package:passcode_screen/keyboard.dart';
 import 'package:passcode_screen/passcode_screen.dart';
 
 class PhotoPasscode extends StatefulWidget {

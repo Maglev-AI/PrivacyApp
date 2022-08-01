@@ -38,8 +38,8 @@ __OBJC_CLASS_PROTOCOLS_$_SignInWithApplePlugin
 __OBJC_METACLASS_RO_$_SignInWithApplePlugin
 __OBJC_$_PROP_LIST_SignInWithApplePlugin
 __OBJC_CLASS_RO_$_SignInWithApplePlugin
-/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.0.0/ios/Classes/SignInWithApplePlugin.m
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.0.0/ios/Classes/SignInWithApplePlugin.m
+/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.1.0/ios/Classes/SignInWithApplePlugin.m
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.1.0/ios/Classes/SignInWithApplePlugin.m
 /Users/development
 _$s18sign_in_with_apple17methodChannelName_WZ
 ___swift_instantiateConcreteTypeFromMangledName
@@ -491,7 +491,7 @@ Apple clang version 13.1.6 (clang-1316.0.20.12)
 -private-discriminator _C6A492FFEF38CC78F3CBDFC3F5381203
 <swift-imported-modules>
 Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
-/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.0.0/ios/Classes/SignInWithAppleAvailablePlugin.swift
+/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.1.0/ios/Classes/SignInWithAppleAvailablePlugin.swift
 _conditionallyBridgeFromObjectiveC
 <compiler-generated>
 $sSq7flatMapyqd__SgABxKXEKlFSS_So20ASAuthorizationScopeaTgq5
@@ -740,7 +740,7 @@ $s18sign_in_with_apple30SignInWithAppleAvailablePluginCfETo
 $sSo45ASAuthorizationAppleIDProviderCredentialStateVs5Error_pSgIegyg_ABSo7NSErrorCSgIeyByy_TR
 $s18sign_in_with_apple30SignInWithAppleAvailablePluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFySo015ASAuthorizationH25IDProviderCredentialStateV_s5Error_pSgtcfU_
 toFlutterError
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.0.0/ios/Classes/SignInWithAppleError.swift
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.1.0/ios/Classes/SignInWithAppleError.swift
 register
 __swift_instantiateConcreteTypeFromMangledName
 $s18sign_in_with_apple30SignInWithAppleAvailablePluginC05_lastefgH23AuthorizationControllerAA0efghlM0CSgvpfi
@@ -791,7 +791,7 @@ _got.$sSo20ASAuthorizationErrorVMn
 _symbolic ______SSt So20ASAuthorizationErrorV
 _$s18sign_in_with_apple20SignInWithAppleErrorOMF
 _$sSo25ASAuthorizationCredential_pMD
-/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.0.0/ios/Classes/SignInWithAppleError.swift
+/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.1.0/ios/Classes/SignInWithAppleError.swift
 $s18sign_in_with_apple20SignInWithAppleErrorOMa
 $s18sign_in_with_apple20SignInWithAppleErrorOwui
 $s18sign_in_with_apple20SignInWithAppleErrorOwup
@@ -823,7 +823,7 @@ _$s18sign_in_with_apple32SignInWithAppleUnavailablePluginCMf
 _symbolic _____ 18sign_in_with_apple32SignInWithAppleUnavailablePluginC
 _$s18sign_in_with_apple32SignInWithAppleUnavailablePluginCMF
 _objc_classes_$s18sign_in_with_apple32SignInWithAppleUnavailablePluginCN
-/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.0.0/ios/Classes/SignInWithAppleUnavailablePlugin.swift
+/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.1.0/ios/Classes/SignInWithAppleUnavailablePlugin.swift
 $s18sign_in_with_apple32SignInWithAppleUnavailablePluginCMa
 $sSo12FlutterErrorCMa
 _$s18sign_in_with_apple26SwiftSignInWithApplePluginC8register0C0ySo07FlutterJ9Registrar_p_tFZTo
@@ -839,11 +839,11 @@ _$s18sign_in_with_apple26SwiftSignInWithApplePluginCMf
 _symbolic _____ 18sign_in_with_apple26SwiftSignInWithApplePluginC
 _$s18sign_in_with_apple26SwiftSignInWithApplePluginCMF
 _objc_classes_$s18sign_in_with_apple26SwiftSignInWithApplePluginCN
-/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.0.0/ios/Classes/SwiftSignInWithApplePlugin.swift
+/Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.1.0/ios/Classes/SwiftSignInWithApplePlugin.swift
 $s18sign_in_with_apple26SwiftSignInWithApplePluginCMa
 $s18sign_in_with_apple17methodChannelNameSSvau
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.0.0/ios/Classes/SignInWithAppleAvailablePlugin.swift
-Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.0.0/ios/Classes/SignInWithAppleUnavailablePlugin.swift
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.1.0/ios/Classes/SignInWithAppleAvailablePlugin.swift
+Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sign_in_with_apple-4.1.0/ios/Classes/SignInWithAppleUnavailablePlugin.swift
 $ss31_stdlib_isOSVersionAtLeast_AEICyBi1_Bw_BwBwtF
 _swift_getFunctionTypeMetadataGlobalActorBackDeploy
 ___swift_getFunctionTypeMetadataGlobalActorBackDeploy_block_invoke

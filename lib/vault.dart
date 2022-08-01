@@ -144,17 +144,17 @@ class _VaultState extends State<Vault> {
                           CupertinoColors.systemGrey.withOpacity(0.3),
                       itemColor: CupertinoColors.systemGrey,
                       onChanged: (String value) {
-                        List<Map> pwdList = [];
+                        List<Map> pwdListTemp = [];
                         for (String tag in vault.getKeys()) {
-                          if (tag.contains(value)) {
-                            pwdList.add({
+                          if (tag.toLowerCase().contains(value.toLowerCase())) {
+                            pwdListTemp.add({
                               'tag': tag,
                               'pwd': vault.read(tag),
                             });
                           }
                         }
                         setState(() {
-                          pwdList = pwdList;
+                          pwdList = pwdListTemp;
                         });
                       },
                     ),
