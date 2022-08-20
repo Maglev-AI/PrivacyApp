@@ -129,9 +129,9 @@ class _MainState extends State<Main> {
   Widget build(BuildContext context) {
     List pageOptions = [
       const Vault(),
-      const Diagnostics(),
       if (hasPasscode) const PhotoPasscode(),
-      if (!hasPasscode) const SetPasscode()
+      if (!hasPasscode) const SetPasscode(),
+      const Diagnostics(),
     ];
 
     return Scaffold(
@@ -144,15 +144,15 @@ class _MainState extends State<Main> {
         items: <BottomNavigationBarItem>[
           BottomNavigationBarItem(
             icon: const Icon(Icons.lock),
-            label: 'Vault'.tr,
-          ),
-          BottomNavigationBarItem(
-            icon: const Icon(Icons.engineering_outlined),
-            label: 'Diagnostics'.tr,
+            label: 'Password'.tr,
           ),
           BottomNavigationBarItem(
             icon: const Icon(Icons.photo),
             label: 'Photos'.tr,
+          ),
+          BottomNavigationBarItem(
+            icon: const Icon(Icons.engineering_outlined),
+            label: 'Diagnostics'.tr,
           ),
         ],
         currentIndex: _selectedIndex,

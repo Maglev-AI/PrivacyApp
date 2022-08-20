@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:dotted_border/dotted_border.dart';
@@ -70,7 +71,9 @@ class _VaultState extends State<Vault> {
                 title: Text(
                   'Vault'.tr,
                   style: TextStyle(
-                      fontWeight: FontWeight.bold, fontSize: Get.width * 0.08),
+                    fontWeight: FontWeight.bold,
+                    fontSize: 25.w,
+                  ),
                 ),
                 centerTitle: true,
                 actions: [
@@ -127,7 +130,11 @@ class _VaultState extends State<Vault> {
                   Get.to(() => const Generator());
                 },
                 tooltip: 'New Password'.tr,
-                child: const Icon(Icons.add),
+                backgroundColor: Colors.orange,
+                child: Icon(
+                  Icons.add,
+                  size: 30.w,
+                ),
               ),
               drawer: const SideDrawer(),
               body: Padding(
