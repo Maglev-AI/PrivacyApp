@@ -42,6 +42,10 @@ crypto
 2.14
 file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.2/
 file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/crypto-3.0.2/lib/
+csslib
+2.12
+file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/csslib-0.17.2/
+file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/csslib-0.17.2/lib/
 cupertino_icons
 2.12
 file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.5/
@@ -92,8 +96,8 @@ file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/f
 file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_lints-2.0.1/lib/
 flutter_native_splash
 2.15
-file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_splash-2.2.7/
-file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_splash-2.2.7/lib/
+file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_splash-2.2.8/
+file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_splash-2.2.8/lib/
 flutter_plugin_android_lifecycle
 2.12
 file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/
@@ -146,6 +150,10 @@ hive_flutter
 2.12
 file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/hive_flutter-1.1.0/
 file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/hive_flutter-1.1.0/lib/
+html
+2.12
+file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/html-0.15.0/
+file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/html-0.15.0/lib/
 http
 2.14
 file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.5/
