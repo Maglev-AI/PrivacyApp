@@ -105,37 +105,37 @@
     },
     {
       "name": "firebase_auth",
-      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.6.4",
+      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
     {
       "name": "firebase_auth_platform_interface",
-      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_platform_interface-6.5.4",
+      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_platform_interface-6.6.0",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
     {
       "name": "firebase_auth_web",
-      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-4.2.4",
+      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-4.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
     {
       "name": "firebase_core",
-      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.21.0",
+      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.21.1",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
     {
       "name": "firebase_core_platform_interface",
-      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.5.0",
+      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.5.1",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
     {
       "name": "firebase_core_web",
-      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.7.1",
+      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.7.2",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
@@ -393,7 +393,7 @@
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.19",
+      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.20",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -627,7 +627,7 @@
     },
     {
       "name": "xdg_directories",
-      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/xdg_directories-0.2.0+1",
+      "rootUri": "file:///Users/development/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/xdg_directories-0.2.0+2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -650,7 +650,7 @@
       "languageVersion": "2.14"
     }
   ],
-  "generated": "2022-08-22T12:37:24.718880Z",
+  "generated": "2022-08-29T15:19:33.080681Z",
   "generator": "pub",
   "generatorVersion": "2.17.6"
 }
