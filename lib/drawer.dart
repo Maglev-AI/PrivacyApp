@@ -102,7 +102,7 @@ class _SideDrawerState extends State<SideDrawer> {
   Widget version() {
     return ListTile(
       title: const Text('Crafted @ MIT'),
-      subtitle: const Text('Version 1.18.0'),
+      subtitle: const Text('Version 1.19.0'),
       leading: IconButton(
         color: Colors.redAccent,
         onPressed: () async {},
